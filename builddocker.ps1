@@ -1,0 +1,1 @@
+docker build --file .docker/Dockerfile -t hellophp .
